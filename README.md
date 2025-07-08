@@ -33,7 +33,7 @@ This project implements a serverless REST API using **AWS Lambda**, **API Gatewa
 
 ## 🗂️ Project Structure
 
-![Folder Structure](Folder Structure.png)
+![Folder Structure](FolderStructure.png)
 
 ---
 
