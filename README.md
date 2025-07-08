@@ -101,14 +101,6 @@ Send user feedback to DynamoDB.
 
 ---
 
-## 👨‍💻 Contributors
-
-| Name              | Role                     |
-|-------------------|--------------------------|
-| Naveen Kumar Varma | API Gateway Setup, Lambda, Testing, Docs |
-| Shrihari Shinde   | IAM, CI/CD, DynamoDB setup |
-
----
 
 ## 📚 References
 
